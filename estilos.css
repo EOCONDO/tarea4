@@ -1,0 +1,28 @@
+.carousel-item
+{
+    width: 500px;
+    flex-wrap: wrap;
+}
+body
+{
+    background-color: rgb(33, 210, 216);
+}
+.titulo
+{
+    background-color: chartreuse;
+}
+.dancing-script
+{
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.btn
+{
+    display: inline-block;
+    background-color: cornflowerblue;
+    padding: 15px;
+    text-decoration: none;
+}
+  
